@@ -8,7 +8,7 @@ Understanding factors that influence data scientist salaries is crucial in a rap
 However, accurate prediction is challenging due to varying roles, company sizes, locations, and remote work ratios.  
 This project aims to create a robust salary prediction model and uncover the most important factors that drive salary differences.
 
-![Demo](images/screenshot.png)
+![Poster](Poster.png)
 
 ## Methodology
 We followed a complete machine learning pipeline:
