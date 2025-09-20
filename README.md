@@ -1,7 +1,7 @@
 # Data Scientist Salary Prediction – Machine Learning Final Project
 
 This is the **final group project for the Machine Learning course** at BINUS University.  
-Our objective is to build a reliable machine learning model to **predict data scientist salaries in USD** based on job-related and company attributes, using the [Data Science Salary 2021–2023 dataset](https://www.kaggle.com/datasets/harishkumardatalab/data-science-salary-2021-to-2023).
+Our objective is to build a reliable machine learning model to **predict data scientist salaries in USD** based on job-related and company attributes, using the [2023 Data Scientists Salary](https://www.kaggle.com/datasets/henryshan/2023-data-scientists-salary).
 
 ## Project Overview
 Understanding factors that influence data scientist salaries is crucial in a rapidly evolving job market.  
